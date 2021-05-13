@@ -1,0 +1,12 @@
+.social-icon{
+    margin: 0 8px;
+    font-size: 26px;
+    color: rgb(51, 51, 51);
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+    cursor: pointer;
+    transition: all ease .3s;
+}
+.social-icon:hover{
+    color: blue;
+}

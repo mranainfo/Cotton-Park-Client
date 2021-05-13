@@ -1,0 +1,15 @@
+.header-bg{
+    /*border-bottom: 1px solid #f0f0f0;*/
+}
+a{
+    text-decoration: none !important;
+}
+.navbar-light .navbar-brand {
+    color: #000800;
+    font-weight: 700;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #000800;
+    margin-right: 16px;
+    font-weight: 400;
+}
